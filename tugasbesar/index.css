@@ -1,0 +1,17 @@
+nav {
+    color: #d42525;
+    margin-left: 55%;
+}
+
+nav li {
+
+    display: inline;
+    margin-left: 10%;
+}
+img {
+    width: 150px;
+    height: 200px;
+}
+body {
+    background: blue;
+}
